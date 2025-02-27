@@ -1,0 +1,362 @@
+h1,ul,li{
+    display:inline;
+}
+h1{
+    margin-left: 10px;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+#Home{
+    background-color: white;
+    color:black;
+    height:50px;
+}
+ul{
+    margin-left: 900px;
+    color:gray;
+    cursor:pointer;
+}
+.bc{
+    background-color: black;
+    color: white;
+}
+input{
+    height: 20px;
+    width:1000px;
+    margin-top:20px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+form{
+    text-align: center;
+}
+li:hover{
+    color:black;
+}
+.Rolex{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#Rolex_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.Rolex:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#rol{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#r{
+    margin-left:30px;
+}
+.Omega{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#Omega_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.Omega:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#omg{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#o{
+    margin-left:150px;
+}
+.product1{
+    display: flex;
+}
+.Philippe{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#Philippe_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.Philippe:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#phil {
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#p{
+    margin-left:30px;
+}
+.varcheron{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#varcheron_price{
+    margin-left:190px ;
+    margin-top: 40px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.varcheron:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#vc{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#v{
+    margin-left:150px;
+}
+.product2{
+    display:flex;
+}
+.Breitling{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#Breitling_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.Breitling:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#Breit{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#b{
+    margin-left:30px;
+}
+.AudemarsPiguet{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#AudemarsPiguet_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.AudemarsPiguet:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#Audemars{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#A{
+    margin-left:150px;
+}
+.product3{
+    display:flex;
+}
+.Jaeger-LeCoultre{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#Jaeger-LeCoultre_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.Jaeger-LeCoultre:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#Jaeger{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#J{
+    margin-left:30px;
+}
+.Cartier{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#Cartier_price{
+    margin-left:190px ;
+    margin-top: 40px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.Cartier:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#Cart{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#c{
+    margin-left:150px;
+}
+.product4{
+    display:flex;
+}
+.IWC{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#IWC_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.IWC:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#iwc{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#i{
+    margin-left:30px;
+}
+.TAG-Heuer{
+    border: 2px solid gold;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    height: 580px;
+    margin-left:100px;
+}
+#TAG-Heuer_price{
+    margin-left:190px ;
+    margin-top: 30px;
+    border: 2px solid blue;
+    margin-right: 220px;
+    text-align: center;
+}
+.TAG-Heuer:hover{
+    color:black;
+    background-color: white;
+    cursor: pointer;
+}
+#Heuer{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+}
+#H{
+    margin-left:150px;
+}
+.product5{
+    display:flex;
+}
+.about{
+    margin-top: 50px;
+    margin-left: 700px;
+    text-decoration-line: underline;
+}
+hr{
+    margin-top:50px;
+}
+#content{
+    margin-top: 50px;
+    margin-left:80px;
+    margin-right: 80px;
+    font-size: larger;
+}
+.conduct{
+    margin-top: 50px;
+    margin-left: 700px;
+    text-decoration-line: underline;
+}
+#detail1{
+    margin-top: 30px;
+    margin-left: 610px;
+    font-size: larger;
+}
+#detail2{
+    margin-top: 10px;
+    margin-left: 550px;
+    font-size: larger;
+}
